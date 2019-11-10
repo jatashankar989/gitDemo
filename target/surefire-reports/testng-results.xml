@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29602" started-at="2019-10-13T14:22:46 IST" finished-at="2019-10-13T14:23:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29602" started-at="2019-10-13T14:22:46 IST" finished-at="2019-10-13T14:23:16 IST">
+      <class name="Management.testingMain">
+        <test-method status="PASS" signature="Initialise()[pri:0, instance:Management.testingMain@3a93b025]" name="Initialise" is-config="true" duration-ms="4150" started-at="2019-10-13T14:22:46 IST" finished-at="2019-10-13T14:22:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialise -->
+        <test-method status="PASS" signature="initbrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Management.testingMain@3a93b025]" name="initbrowser" duration-ms="16479" started-at="2019-10-13T14:22:51 IST" data-provider="innerValue" finished-at="2019-10-13T14:23:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.qaclickacademy.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jatashankar989@gmailcom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jaibabaji]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initbrowser -->
+        <test-method status="PASS" signature="initbrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Management.testingMain@3a93b025]" name="initbrowser" duration-ms="8782" started-at="2019-10-13T14:23:07 IST" data-provider="innerValue" finished-at="2019-10-13T14:23:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.qaclickacademy.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jatashankar@gmailcom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jaibabaji]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initbrowser -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Management.testingMain@3a93b025]" name="close" is-config="true" duration-ms="109" started-at="2019-10-13T14:23:16 IST" finished-at="2019-10-13T14:23:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Management.testingMain -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
