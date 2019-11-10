@@ -42,5 +42,17 @@ public class EmailPage {
 		{
 			return driver.findElement(btn);
 		}
+		public WebElement btn3()
+		{
+			return driver.findElement(btn);
+		}
+		public WebElement btn4()
+		{
+			return driver.findElement(btn);
+		}
+		public WebElement btn5()
+		{
+			return driver.findElement(btn);
+		}
 
 }
